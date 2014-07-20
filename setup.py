@@ -9,5 +9,5 @@ setup(
     author='Adrian Holovaty',
     author_email='adrian@holovaty.com',
     packages=['templatemaker'],
-    ext_modules=[Extension('templatemaker._template', ['templatemaker.c'])],
+    ext_modules=[Extension('_templatemaker', ['templatemaker.c'])],
 )
