@@ -2,13 +2,6 @@
 templatemaker to-do list
 ========================
 
-templatemaker.c
-===============
-
-* Is there a more efficient algorithm for the longest_match() C function?
-
-* Provide a Python fallback module.
-
 templatemaker.py
 ================
 
@@ -66,3 +59,6 @@ templatemaker.py
  last_change is an attribute rather than being a return value of learn() to
  keep things clean. The value of last_change is overridden each time learn() is
  called.
+
+* Add performance enhancements to the Python implementation - e.g. memoization, 
+  more efficient string operations, or algorithmic improvements.
