@@ -354,6 +354,6 @@ The test suite is designed to work with both pytest and unittest, automatically 
 
 ## Change log
 
-- 2025-02-27    0.1.0    Pure Python implementation with pytest/unittest compatibility
+- 2025-02-27    0.1.0    Ported to pure Python implementation with pytest/unittest compatibility
 - 2007-09-20    0.1.1    Created HTMLTemplate
 - 2007-07-06    0.1      Initial release
