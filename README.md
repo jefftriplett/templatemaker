@@ -1,5 +1,7 @@
 # Templatemaker
 
+> **NOTE:** This version can only be installed via the https://github.com/jefftriplett/templatemaker repo. Any mentions of `pip install templatemaker` are outdated.
+
 Given a list of text files in a similar format, templatemaker creates a
 template that can extract data from files in that same format.
 
